@@ -6,6 +6,7 @@ Me chamo Luiz Fillipe Santos de Jesus, tenho 20 anos, sou de Sergipe e curso Jog
 
 [![Email](https://img.shields.io/badge/Email-Contato-red)](mailto:luizfillipesantos.99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/luiz-jesus-594929218/)
+[![Currículo](https://img.shields.io/badge/Currículo-Online-success?logo=readme&logoColor=white)](https://fillipesnts.github.io/Curriculum/)
 
 ---
 
