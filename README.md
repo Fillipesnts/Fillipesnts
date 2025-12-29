@@ -4,8 +4,13 @@
 
 Me chamo Luiz Fillipe Santos de Jesus, tenho 20 anos, sou de Sergipe e curso Jogos Digitais na Uniasselvi. Sou apaixonado por jogos, tecnologia, design e storytelling, e estudo essas áreas de forma integrada, buscando me tornar um profissional completo, criativo e preparado para os desafios do mercado.
 
-[![Email](https://img.shields.io/badge/Email-Contato-red)](mailto:luizfillipesantos.99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/luiz-jesus-594929218/)
+<a href="mailto:luizfillipesantos.99@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contato-red" />
+</a>
+
+<a href="https://www.linkedin.com/in/luiz-jesus-594929218/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin" />
+</a>
 
 ---
 
