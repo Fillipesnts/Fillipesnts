@@ -1,6 +1,6 @@
 # 🐈 Fillipe Jesus
 
-**`Estudante de Jogos Digitais | Narrativa, Design e Desenvolvimento Front-End`**
+**`Estudante de Jogos Digitais | Narrativa, Design Visual e Desenvolvimento Front-End`**
 
 Me chamo Luiz Fillipe Santos de Jesus, tenho 20 anos, sou de Sergipe e curso Jogos Digitais na Uniasselvi. Sou apaixonado por jogos, tecnologia, design e storytelling, e estudo essas áreas de forma integrada, buscando me tornar um profissional completo, criativo e preparado para os desafios do mercado.
 
